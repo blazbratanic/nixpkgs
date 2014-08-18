@@ -1,3 +1,8 @@
+# build-time overrides for some gems
+#
+# gems in here generally involve native extensions; there's no way to tell
+# based on the gemfile
+
 { fetchurl, writeScript, ruby, ncurses, sqlite, libxml2, libxslt, libffi
 , zlib, libuuid, gems, jdk, python, stdenv, imagemagick, pkgconfig, libiconv
 , gnumake, which, postgresql, v8_3_16_14, clang }:
