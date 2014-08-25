@@ -153,6 +153,7 @@
   ./services/misc/disnix.nix
   ./services/misc/felix.nix
   ./services/misc/folding-at-home.nix
+  ./services/misc/gitlab.nix
   ./services/misc/gitolite.nix
   ./services/misc/gpsd.nix
   ./services/misc/nix-daemon.nix
